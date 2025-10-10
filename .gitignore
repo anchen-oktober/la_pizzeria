@@ -1,0 +1,44 @@
+# IDE и системные файлы
+.vs
+.vsconfig
+.sln
+.csproj
+.user
+.unityproj
+.htm
+
+# Unity временные и кэш-файлы
+Library
+Temp
+Logs
+Obj
+Build
+Builds
+MemoryCaptures
+
+# Unity автогенерируемые файлы
+.pidb
+.booproj
+.svd
+.pdb
+.mdb
+.opendb
+.VC.db
+
+# OS мусор
+.DS_Store
+Thumbs.db
+
+# Кэш и сборки
+.apk
+.aab
+.exe
+.dll
+.app
+.zip
+
+# Unity Collab
+Collab
+
+# Скрытые метаданные
+.meta
